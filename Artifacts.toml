@@ -1,0 +1,10 @@
+[[HelloWorldRust]]
+arch = "aarch64"
+git-tree-sha1 = "2c4d326fb48d556f4268fe8c0f7a649aefa2c288"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldRust.download]]
+    sha256 = "38d39b075f41626249fc02491d693de95a236603dcf68d72748688e3fd6ddc6a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.0.0+0/HelloWorldRust.v1.0.0.aarch64-linux-gnu.tar.gz"
+
