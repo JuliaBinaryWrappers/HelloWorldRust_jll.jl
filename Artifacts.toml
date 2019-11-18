@@ -25,3 +25,12 @@ os = "linux"
     [[HelloWorldRust.download]]
     sha256 = "643ed0e1cd31e99722989af9f9bd1b2a711d7d83a68b9dbef41b0dad0b3e41ae"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.0.0+0/HelloWorldRust.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[HelloWorldRust]]
+arch = "x86_64"
+git-tree-sha1 = "47e1e73ff28c0825be3976bc1fb99d988f2c913e"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldRust.download]]
+    sha256 = "b094c6e58eb11579ed3ebc7eac51c019e2b12e412e4d9809475f170daedc88f5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.0.0+0/HelloWorldRust.v1.0.0.x86_64-linux-gnu.tar.gz"
