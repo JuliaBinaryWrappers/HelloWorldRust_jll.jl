@@ -1,135 +1,135 @@
 [[HelloWorldRust]]
 arch = "aarch64"
-git-tree-sha1 = "f8f1e39bee1b03103789a0c1edbaf63c26836681"
+git-tree-sha1 = "5f9b0374bcc75a22e6efaf37a688251a600c2404"
 os = "macos"
 
     [[HelloWorldRust.download]]
-    sha256 = "7f4c1b457bd1b6ff31c8ebc63d575873d6b5c5257df76985d21d4c20abaab281"
+    sha256 = "1c1dd02816901687823d236518541639a6868edf057e722d95bf76da79731bb0"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.aarch64-apple-darwin.tar.gz"
 [[HelloWorldRust]]
 arch = "aarch64"
-git-tree-sha1 = "e5041692cd7b1a25024fb3322914b32682236dad"
+git-tree-sha1 = "36140eb82dee89f20eb39583d73bb5b0c934cd14"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "096fc02054b3b5dcd4ee7600deda6a8569507771c1b5ef831eb2046957e54c27"
+    sha256 = "c9babad1ccff03e42e083e13db9473f4dad57e9f68d984f4ff1e855ed5f45993"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.aarch64-linux-gnu.tar.gz"
 [[HelloWorldRust]]
 arch = "aarch64"
-git-tree-sha1 = "b7fc2bc4c75550abe3e81dc594fcfbb3b8f4c839"
+git-tree-sha1 = "3be15d594770746cb51518481d682f8d680b81cd"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "64364fa03956aed86c00c29be632171d23f0fa2858c896fe962a6ee35f63ea82"
+    sha256 = "2a6f6eb08da683297132bd043501435379253b565c54649732a28e6667dbd830"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.aarch64-linux-musl.tar.gz"
 [[HelloWorldRust]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "15d1b0ff366cab142e0c1227acf41ff73571f118"
+git-tree-sha1 = "330334a573dce29c4adcfbf037b0cdda9cdff176"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "76d240610ce0948bba16df94ffcd3e997a2934010edf1dadad491a4ee3ca00d3"
+    sha256 = "1a6eede04d9cbaa0eb65daf24d8dcd53b4567eafea911bd0d94563078d62bd5f"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.armv6l-linux-gnueabihf.tar.gz"
 [[HelloWorldRust]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1b3cdf20f4c389809564728858c169d1d0982b50"
+git-tree-sha1 = "721e15c3456dc181ecd68682dca7e656ae3c87cd"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "d917bf23711d5355adfaec5adbd69dd1a04aa446c70162882f5bf2bfb5cef044"
+    sha256 = "30a6a64516bce52065b4f9d37e2e950fb3402a75ddf918c133081553aae237a2"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.armv6l-linux-musleabihf.tar.gz"
 [[HelloWorldRust]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b3dbb0d307b8bce6ce9cf68aac927ce2806d4484"
+git-tree-sha1 = "f9c726478bb1730b1bcc42f71ad59104272a6c5f"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "c4791c88c4fd5c955e3419acd2a4279f33fedf0eae9a78f9a60afc8a935ca16b"
+    sha256 = "290c1bbea75d37e69d42c5c5bf44cc2c47cf6d118cbb3fde5e5c61ae800857c8"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[HelloWorldRust]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6b78aad072ce12a83e09f3e3ef3a9524e9f377c1"
+git-tree-sha1 = "8d90b5381241b6ccc534a485d2e3466ebf509006"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "0457d30762ac207169a65c63569e9be56758a9fa50379d139561e45427ba88f2"
+    sha256 = "f950e35b6213b4e519e890f17b90410192e770d5ad2e134f7d7d78d56ef84842"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.armv7l-linux-musleabihf.tar.gz"
 [[HelloWorldRust]]
 arch = "i686"
-git-tree-sha1 = "2d9dc0ce6e9259495003a4249b275c97f5f7e31b"
+git-tree-sha1 = "6b8717c822bcc6602c1b87c645f1443145a8d6a4"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "52389afcc9fdde205bcae42a9063267d46b6d086459642922be64af9ad1645de"
+    sha256 = "d6c7725f92f0873d1418b23a631264d6afce318ca57c26fabe9f56cb8e58d81c"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.i686-linux-gnu.tar.gz"
 [[HelloWorldRust]]
 arch = "i686"
-git-tree-sha1 = "3d9659da4b4b3e8d3c8f65accbef23f5c60fa73f"
+git-tree-sha1 = "f33a230a277fed5740d73a698bf6545c86eed3d1"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "60312df1a58992150fec4f60144e3526da2823ac7754b0e2d27f72557d058594"
+    sha256 = "556604973f035360303a4f30f8d6d418be24fb5ba0b5623f8d98f0fa9cfbfd59"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.i686-linux-musl.tar.gz"
 [[HelloWorldRust]]
 arch = "powerpc64le"
-git-tree-sha1 = "effaf858598e9ffec7af2741430bedaaf65c7edd"
+git-tree-sha1 = "7cbfa0f9211bc83bba7aab659e3638588b593dc2"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "bdb5f6aa15a22cc06c3c59450f1a96edf72296c3891eb887f6975ac20567b265"
+    sha256 = "692fe4f35c12da8ee8359475a94f475a8d60ee76a15651546ff67221a4b2be66"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.powerpc64le-linux-gnu.tar.gz"
 [[HelloWorldRust]]
 arch = "x86_64"
-git-tree-sha1 = "c105b1df2e16872cbd00ea1f365202d6474640e7"
+git-tree-sha1 = "8e99971fdedd5d5636f44e7291cc7681f8cdef1a"
 os = "macos"
 
     [[HelloWorldRust.download]]
-    sha256 = "1f16ba444e847e797216b25d963b6a7f099574eff57105df0abb72c4e4b2a058"
+    sha256 = "11a74dc7a4c6e3c69aee8406228c0a962302a7b72eb1b9b3e4b3a22f48264fda"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.x86_64-apple-darwin.tar.gz"
 [[HelloWorldRust]]
 arch = "x86_64"
-git-tree-sha1 = "e2eceb611a42efd1e2ce642e9d78560b5dfa4c51"
+git-tree-sha1 = "e5a585903f05dabc110cb83d3dc9f40a8992f612"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "1c0f7d448926fb7f28b75633157b3460a5a9822705cb3438c33119afa7616d17"
+    sha256 = "a2e76a240fa0862e4c963a7695be652ce78d06b72d81ea7b49aa0ae8e86f7ecc"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.x86_64-linux-gnu.tar.gz"
 [[HelloWorldRust]]
 arch = "x86_64"
-git-tree-sha1 = "a2efee069752a3438ee48a99f2d9c7d4b357067c"
+git-tree-sha1 = "03450a8ca8710d422bf01c7e2c2ce6b66e7d1df4"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldRust.download]]
-    sha256 = "5c72682d25bdb63b6b4f7117487c23498cfe5e3619b6c37999a59c72aeac8393"
+    sha256 = "ba8efc5f2181cb0fa10d8ae250f50d219358619b979e3c04e3b80f75322ab33e"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.x86_64-linux-musl.tar.gz"
 [[HelloWorldRust]]
 arch = "x86_64"
-git-tree-sha1 = "e9d2646c4f8a1e2c6fbd4b06d8042f84606f7213"
+git-tree-sha1 = "179f4bc0644e3515b869c67541e2527b511f8b72"
 os = "freebsd"
 
     [[HelloWorldRust.download]]
-    sha256 = "6407f18ea4bf75728226eaabd99beeaafe0098c0ef2b4bf5968acf4727921a9c"
+    sha256 = "733f499731e7d7642e9fb5e60bb78366f097d288a517b93a574ebfeace3b78e1"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.x86_64-unknown-freebsd.tar.gz"
 [[HelloWorldRust]]
 arch = "x86_64"
-git-tree-sha1 = "f9e9c4f10aecd1446fda7c02118e1e42d57acbcd"
+git-tree-sha1 = "dc5b68ea34297f76317cdb46e616e85a67ec38e9"
 os = "windows"
 
     [[HelloWorldRust.download]]
-    sha256 = "1258b7e71fe65c23e11142c1aefc819fb0bf72fcc7f25d8881ba07e6fbcf5c8d"
+    sha256 = "d8b4c0d556c3fe5d26bb4f454b6189fa88ae4b744d19dab82f247372ac56b9b6"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldRust_jll.jl/releases/download/HelloWorldRust-v1.1.0+0/HelloWorldRust.v1.1.0.x86_64-w64-mingw32.tar.gz"
