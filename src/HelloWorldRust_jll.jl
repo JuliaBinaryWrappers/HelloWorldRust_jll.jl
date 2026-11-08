@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("HelloWorldRust")
-JLLWrappers.@generate_main_file("HelloWorldRust", UUID("fe88b250-572a-58c0-bc10-44ea94891c99"))
+JLLWrappers.@generate_main_file("HelloWorldRust", Base.UUID("fe88b250-572a-58c0-bc10-44ea94891c99"))
 end  # module HelloWorldRust_jll
